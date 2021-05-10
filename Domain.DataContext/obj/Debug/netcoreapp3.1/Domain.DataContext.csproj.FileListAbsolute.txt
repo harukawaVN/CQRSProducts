@@ -1,0 +1,16 @@
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\Domain.DataContext.csprojAssemblyReference.cache
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\Domain.DataContext.AssemblyInfoInputs.cache
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\Domain.DataContext.AssemblyInfo.cs
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\Domain.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\bin\Debug\netcoreapp3.1\Domain.DataContext.deps.json
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\bin\Debug\netcoreapp3.1\Domain.DataContext.runtimeconfig.json
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\bin\Debug\netcoreapp3.1\Domain.DataContext.runtimeconfig.dev.json
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\bin\Debug\netcoreapp3.1\Domain.DataContext.dll
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\bin\Debug\netcoreapp3.1\Domain.DataContext.pdb
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\staticwebassets\Domain.DataContext.StaticWebAssets.Manifest.cache
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\staticwebassets\Domain.DataContext.StaticWebAssets.xml
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\scopedcss\bundle\Domain.DataContext.styles.css
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\Domain.DataContext.RazorTargetAssemblyInfo.cache
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\Domain.DataContext.dll
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\Domain.DataContext.pdb
+C:\Users\Ha TRUONG\source\repos\MicroservicesAngular\Domain.DataContext\obj\Debug\netcoreapp3.1\Domain.DataContext.genruntimeconfig.cache
